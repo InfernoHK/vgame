@@ -1,9 +1,9 @@
 [gd_scene load_steps=9 format=3 uid="uid://0yehl7g8v8g4"]
 
 [ext_resource type="Script" path="res://main_scene.gd" id="1_qtd3y"]
-[ext_resource type="Texture2D" uid="uid://bb23cayu7v75w" path="res://Assets/Zombie Apocalypse Tileset Reference.png" id="2_isqjh"]
+[ext_resource type="Texture2D" uid="uid://bb3bcosl2ad0l" path="res://Assests/Zombie Apocalypse Tileset Reference.png" id="2_isqjh"]
 [ext_resource type="PackedScene" uid="uid://botgsb57rshm7" path="res://Obj's/main_character.tscn" id="3_totnc"]
-[ext_resource type="PackedScene" uid="uid://cgkis8w4pkier" path="res://Obj's/zombie.tscn" id="4_xql1c"]
+[ext_resource type="PackedScene" uid="uid://imuovngr8tws" path="res://zombie_new.tscn" id="4_xql1c"]
 
 [sub_resource type="TileSetAtlasSource" id="TileSetAtlasSource_hnw62"]
 resource_name = "Grass/map"
