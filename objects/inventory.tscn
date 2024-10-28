@@ -1,0 +1,10 @@
+[gd_scene load_steps=3 format=3 uid="uid://dpapg8po7706d"]
+
+[ext_resource type="InventoryDatabase" uid="uid://dp2s7od308es8" path="res://my_database.tres" id="1_m1y2b"]
+[ext_resource type="Script" path="res://objects/inventory.gd" id="2_nye05"]
+
+[node name="Inventory" type="Node2D"]
+
+[node name="Inventory" type="Inventory" parent="."]
+database = ExtResource("1_m1y2b")
+script = ExtResource("2_nye05")

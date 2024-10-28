@@ -1,0 +1,4 @@
+[gd_resource type="ItemDefinition" format=3 uid="uid://q5myodr6alqm"]
+
+[resource]
+name = "new_item"
